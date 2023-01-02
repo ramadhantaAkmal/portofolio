@@ -56073,7 +56073,7 @@ G(a){var s=null
 return new A.ri(1.23,A.eC(s,A.eZ(A.a([B.u_,B.wF,B.It,A.ce("Mohamad Akmal Ramadhanta",s,s,A.av(a).RG.x,s,s),B.Mq,B.u_],t.p),B.T,B.D),B.q,B.yJ,s,s,s,s,s,s,s,s,s),s)}}
 A.vR.prototype={
 G(a){var s=this,r=null,q="assets/icons/download.svg",p=t.p
-return new A.C9(A.afm(!0,A.eZ(A.a([new A.DV(r),A.Ct(A.abb(A.eZ(A.a([new A.ns("Residence","Indonesia",r),new A.ns("City","Depok",r),new A.ns("Degree","Informatics Engineering",r),new A.B3(r),A.cN(r,20,r),new A.Gm(r),new A.Dj(r),A.QB(),A.cN(r,10,r),A.a1C(A.aay(B.G,A.h3(A.a([A.ce("Flutter Developer CV",r,r,A.eq(r,r,A.av(a).RG.y.b,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.cN(r,r,10),A.GH(q)],p),B.T,B.D,B.a8),B.q,B.dZ),new A.a_4(s)),A.a1C(A.aay(B.G,A.h3(A.a([A.ce("Data Engineer CV",r,r,A.eq(r,r,A.av(a).RG.y.b,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.cN(r,r,10),A.GH(q)],p),B.T,B.D,B.a8),B.q,B.dZ),new A.a_5(s)),A.eC(r,A.h3(A.a([new A.jg(1,r),A.TZ(r,A.GH("assets/icons/linkedin.svg"),r,new A.a_6(s),r),A.TZ(r,A.GH("assets/icons/github.svg"),r,new A.a_7(s),r),new A.jg(1,r)],p),B.T,B.D,B.a8),B.q,new A.l(4280558638),r,r,r,r,new A.aR(0,20,0,0),r,r,r,r)],p),B.T,B.D),r,new A.aR(20,20,20,20),B.aA),1)],p),B.T,B.D),!0),r)},
+return new A.C9(A.afm(!0,A.eZ(A.a([new A.DV(r),A.Ct(A.abb(A.eZ(A.a([new A.ns("Residence","Indonesia",r),new A.ns("City","Depok",r),new A.ns("Degree","Informatics Engineering",r),new A.B3(r),A.cN(r,20,r),new A.Gm(r),new A.Dj(r),A.QB(),A.cN(r,10,r),A.a1C(A.aay(B.G,A.h3(A.a([A.ce("Flutter Developer CV",r,r,A.eq(r,r,A.av(a).RG.y.b,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.cN(r,r,10),A.GH(q)],p),B.T,B.D,B.a8),B.q,B.dZ),new A.a_4(s)),A.a1C(A.aay(B.G,A.h3(A.a([A.ce("Data Enthusiast CV",r,r,A.eq(r,r,A.av(a).RG.y.b,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.cN(r,r,10),A.GH(q)],p),B.T,B.D,B.a8),B.q,B.dZ),new A.a_5(s)),A.eC(r,A.h3(A.a([new A.jg(1,r),A.TZ(r,A.GH("assets/icons/linkedin.svg"),r,new A.a_6(s),r),A.TZ(r,A.GH("assets/icons/github.svg"),r,new A.a_7(s),r),new A.jg(1,r)],p),B.T,B.D,B.a8),B.q,new A.l(4280558638),r,r,r,r,new A.aR(0,20,0,0),r,r,r,r)],p),B.T,B.D),r,new A.aR(20,20,20,20),B.aA),1)],p),B.T,B.D),!0),r)},
 iz(a){return this.Qs(a)},
 Qs(a){var s=0,r=A.Z(t.z),q
 var $async$iz=A.a_(function(b,c){if(b===1)return A.W(c,r)
@@ -56097,7 +56097,7 @@ $0(){this.a.iz("https://github.com/ramadhantaAkmal")},
 $S:0}
 A.Gm.prototype={
 G(a){var s=null,r=t.p
-return A.eZ(A.a([A.QB(),new A.cX(B.cM,A.h3(A.a([A.ce("Languages",s,s,A.av(a).RG.x,s,s),A.ce("Proficiency",s,s,A.av(a).RG.x,s,s)],r),B.T,B.eW,B.a8),s),new A.jM(0.85,"Dart",s),A.cN(s,s,20),new A.jM(0.85,"Python",s),A.cN(s,s,20),new A.jM(0.65,"Kotlin",s),new A.jM(0.65,"SQL",s),A.cN(s,s,20),new A.jM(0.5,"PHP",s)],r),B.ai,B.D)}}
+return A.eZ(A.a([A.QB(),new A.cX(B.cM,A.h3(A.a([A.ce("Languages",s,s,A.av(a).RG.x,s,s),A.ce("Proficiency",s,s,A.av(a).RG.x,s,s)],r),B.T,B.eW,B.a8),s),new A.jM(0.9,"Dart",s),A.cN(s,s,20),new A.jM(0.9,"Python",s),A.cN(s,s,20),new A.jM(0.7,"Kotlin",s),new A.jM(0.8,"SQL",s),A.cN(s,s,20),new A.jM(0.6,"PHP",s)],r),B.ai,B.D)}}
 A.Dz.prototype={
 G(a){var s,r,q=null,p=t.w
 if(a.O(p).f.a.a>=1024)s=q
