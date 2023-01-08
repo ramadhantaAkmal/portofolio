@@ -56090,7 +56090,7 @@ A.a_5.prototype={
 $0(){this.a.iz("https://drive.google.com/file/d/1A51jpQWQPWXISRmq03lm1tptP6KlEMit/view?usp=share_link")},
 $S:0}
 A.a_6.prototype={
-$0(){this.a.iz("https://www.linkedin.com/in/mohamad-akmal-ramadhanta-567ba9167/")},
+$0(){this.a.iz("https://www.linkedin.com/in/m-akmal-r/")},
 $S:0}
 A.a_7.prototype={
 $0(){this.a.iz("https://github.com/ramadhantaAkmal")},
